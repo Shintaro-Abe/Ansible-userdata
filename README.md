@@ -19,4 +19,4 @@ amazon-linux-extrasを使用するため。
 
 以下のリポジトリを参照。
 
-<a href="https://github.com/Shintaro-Abe/Ansible.git"><img src="https://img.shields.io/badge/Shintaro-Abe/Ansible-181717.svg?logo=github&style=flat-square"></a>
+<a href="https://github.com/Shintaro-Abe/Ansible.git"><img src="https://img.shields.io/badge/ShintaroAbe/Ansible-181717.svg?logo=github&style=flat-square"></a>
