@@ -8,7 +8,7 @@ amazon-linux-extrasを使用するため。
 ## スクリプトについて
 以下の流れでインストールを実施し、インスタンスへ初めてログインした段階でAnsibleを使用できる環境を構築。
 * __Ansibleのインストール__
-* __RegionとOutoputの設定__
+* __RegionとOutputの設定__
 * __ssh公開鍵と秘密鍵の生成__
 * __ansible.cfgの設定__
 * __ansibleディレクトリの作成__
