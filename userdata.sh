@@ -1,7 +1,7 @@
 #!/bin/bash
 
 Region=ap-northeast-1
-Output=json
+Output=table
 
 amazon-linux-extras enable ansible2
 yum install -y ansible                       
