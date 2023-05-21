@@ -1,10 +1,10 @@
 # Ansible-userdata
 ## 使用について
 
-#### AmazonLinux2023は非対応。AmazonLinux2での使用を推奨。
-amazon-linux-extrasを使用するため。
-#### EC2のインスタンスプロファイルにIAMロールを設定。
-リソースの作成に必要な権限を付与。
+* __AmazonLinux2023は非対応。AmazonLinux2での使用を推奨。__
+    * amazon-linux-extrasを使用するため。
+* __EC2のインスタンスプロファイルにIAMロールを設定。__
+    * リソースの作成に必要な権限を付与。
 ## スクリプトについて
 以下の流れでインストールを実施し、インスタンスへ初めてログインした段階でAnsibleを使用できる環境を構築。
 * __Ansibleのインストール__
